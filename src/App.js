@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Besrepo netlify denemesine hoşgeldiniz! 2 
+          Besrepo netlify denemesine hoşgeldiniz! tubisss
         </p>
         <a
           className="App-link"
